@@ -685,6 +685,42 @@
       "new-to-question": ""
     }
   },
+  "migrate-to-cloud": {
+    "can-i-move": {
+      "body": "",
+      "link-title": "",
+      "title": ""
+    },
+    "cta": {
+      "button": "",
+      "header": ""
+    },
+    "is-it-secure": {
+      "body": "",
+      "link-title": "",
+      "title": ""
+    },
+    "pdc": {
+      "body": "",
+      "link-title": "",
+      "title": ""
+    },
+    "pricing": {
+      "body": "",
+      "link-title": "",
+      "title": ""
+    },
+    "what-is-cloud": {
+      "body": "",
+      "link-title": "",
+      "title": ""
+    },
+    "why-host": {
+      "body": "",
+      "link-title": "",
+      "title": ""
+    }
+  },
   "nav": {
     "add-new-connections": {
       "title": "添加新连接"
